@@ -1,0 +1,5 @@
+# textsum
+streamlit
+transformers
+torch
+hf-keras
