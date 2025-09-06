@@ -22,8 +22,4 @@ This project is an interactive web application that summarizes long text into co
 - Adjustable summary size (min/max length).  
 - Instant user feedback with Streamlit widgets.  
 
-## 🚀 How to Run
-1. Clone the repo:  
-```bash
-git clone <repo-link>
-cd text-summarizer-app
+<img width="1898" height="860" alt="Screenshot 2025-09-05 111304" src="https://github.com/user-attachments/assets/e2d15c21-9984-4cf1-a6a0-9138b12f0c81" />
